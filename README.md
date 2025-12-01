@@ -1,2 +1,5 @@
 # Production Ready Data Science
-Following along with the Production Ready Data Science book.
+Trying items from the Production Ready Data Science book.
+
+# Automate the Boring Stuff
+Following along the Automate the Boring Stuff book.
